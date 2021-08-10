@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ChrMaass
+- 👀 I’m interested in programming and flying light aircrafts.
+- 🌱 I’m currently learning developing microcontroller.
+- 💞️ I’m looking to collaborate on cool projects and Clock Clocks
+- 📫 You reach me via mail at christian@maass.it
